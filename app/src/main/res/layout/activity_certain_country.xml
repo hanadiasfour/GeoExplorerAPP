@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    style="@style/AppTheme"
+    tools:context=".certainCountryActivity">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <!--Back button to return to continents page-->
+
+            <!--back arrow sends you bak to the countries-->
+            <Button
+                style="@style/BackButton"
+                android:drawableLeft="@drawable/arrow"
+                android:id="@+id/ThirdBack"
+                android:layout_alignParentLeft="true"
+                android:onClick="backFromCertainCountryActivity"/>
+
+            <!--Checkbox to select favorites-->
+            <CheckBox
+                android:id="@+id/checkbox"
+                style="@style/CheckboxStyle"
+                android:text="Favorite"
+                />
+
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/black"
+            android:layout_gravity="center"
+            android:layout_marginTop="2dp"/>
+
+        <!--Specific Continent title-->
+        <TextView
+            style="@style/SubTitleTextStyle"
+            android:text="Name:"
+            android:id="@+id/country_name"
+            />
+
+        <ImageView
+            style="@style/pictureStyle"
+            android:id="@+id/country_pic"
+            android:src="@drawable/img131"
+            />
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--Capital heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/pin"
+                android:text="Capital: " />
+
+            <!--Capital text Content-->
+            <TextView
+                android:id="@+id/capital"
+                style="@style/SmallText"
+                android:text="Jeruselam "/>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--Population heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/people"
+                android:text="Population: " />
+
+            <!--Population text Content-->
+            <TextView
+                android:id="@+id/population"
+                style="@style/SmallText"
+                android:text="2090324 "/>
+
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--Language heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/language"
+                android:text="Language: " />
+
+            <!--language text Content-->
+            <TextView
+                android:id="@+id/language"
+                style="@style/SmallText"
+                android:text="Arabic "/>
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--year of independence heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/flag"
+                android:text="Independence year: " />
+
+            <!--year text Content-->
+            <TextView
+                android:id="@+id/independence"
+                style="@style/SmallText"
+                android:text="1988"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--year of independence heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/religion"
+                android:text="Religion: " />
+
+            <!--year text Content-->
+            <TextView
+                android:id="@+id/religion"
+                style="@style/SmallText"
+                android:text="Islam"/>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--continent heading-->
+            <TextView
+                style="@style/NormalTextStyle"
+                android:drawableLeft="@drawable/world"
+                android:text="Continent: " />
+
+            <!--continet text Content-->
+            <TextView
+                android:id="@+id/continent"
+                style="@style/SmallText"
+                android:text="Asia"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
+
+
+</RelativeLayout>

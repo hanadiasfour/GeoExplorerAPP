@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkSage">#3F6E46</color>
+    <color name="lightSage">#8CBF98</color>
+    <color name="veryLightSage">#C8E8CF</color>
+    <color name="gold">#FFC107</color>
+    <color name="grey">#929392</color>
+
+
+</resources>

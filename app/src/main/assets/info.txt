@@ -1,0 +1,194 @@
+name,population,capital_name,most_followed_religion, year_of_independance, official_language,continent
+1,Afghanistan,38928346,Kabul,Islam,1919,Pashto,Asia
+2,Albania,2877797,Tirana,Islam,1912,Albanian,Europe
+3,Algeria,43851044,Algiers,Islam,1962,Arabic,Africa
+4,Andorra,77265,Andorra la Vella,Catholicism,1278,Catalan,Europe
+5,Angola,32866272,Luanda,Christianity,1975,Portuguese,Africa
+6,Antigua and Barbuda,97928,Saint John's,Christianity,1981,English,North America
+7,Argentina,45195777,Buenos Aires,Christianity,1816,Spanish,South America
+8,Armenia,2963243,Yerevan,Christianity,1991,Armenian,Asia
+9,Australia,25499884,Canberra,Christianity,1901,English,Oceania
+10,Austria,9006398,Vienna,Christianity,1955,German,Europe
+11,Azerbaijan,10139177,Baku,Islam,1991,Azerbaijani,Asia
+12,Bahamas,393244,Nassau,Christianity,1973,English,North America
+13,Bahrain,1701575,Manama,Islam,1971,Arabic,Asia
+14,Bangladesh,164689383,Dhaka,Islam,1971,Bengali,Asia
+15,Barbados,287371,Bridgetown,Christianity,1966,English,North America
+16,Belarus,9449323,Minsk,Christianity,1991,Belarusian,Europe
+17,Belgium,11589623,Brussels,Christianity,1830,Dutch,Europe
+18,Belize,397621,Belmopan,Christianity,1981,English,North America
+19,Benin,12123200,Porto-Novo,Christianity,1960,French,Africa
+20,Bhutan,771608,Thimphu,Buddhism,1949,Dzongkha,Asia
+21,Bolivia,11673029,Sucre,Christianity,1825,Spanish,South America
+22,Bosnia and Herzegovina,3280819,Sarajevo,Islam,1992,Bosnian,Europe
+23,Botswana,2351627,Gaborone,Christianity,1966,English,Africa
+24,Brazil,212559417,Brasília,Christianity,1822,Portuguese,South America
+25,Brunei,437479,Bandar Seri Begawan,Islam,1984,Malay,Asia
+26,Bulgaria,6948445,Sofia,Christianity,1908,Bulgarian,Europe
+27,Burkina Faso,20903273,Ouagadougou,Islam,1960,French,Africa
+28,Burundi,11890781,Gitega,Christianity,1962,Kirundi,Africa
+29,Cabo Verde,555987,Praia,Christianity,1975,Portuguese,Africa
+30,Cambodia,16718971,Phnom Penh,Buddhism,1953,Khmer,Asia
+31,Cameroon,26545863,Yaoundé,Christianity,1960,French,Africa
+32,Canada,37742154,Ottawa,Christianity,1867,English,North America
+33,Central African Republic,4829767,Bangui,Christianity,1960,French,Africa
+34,Chad,16425864,N'Djamena,Islam,1960,French,Africa
+35,Chile,19116201,Santiago,Christianity,1818,Spanish,South America
+36,China,1439323776,Beijing,Islam,1949,Mandarin,Asia
+37,Colombia,50882891,Bogotá,Christianity,1810,Spanish,South America
+38,Comoros,869601,Moroni,Islam,1975,Comorian,Africa
+39,Congo (Congo-Brazzaville),5518092,Brazzaville,Christianity,1960,French,Africa
+40,Costa Rica,5094118,San José,Christianity,1821,Spanish,North America
+41,Croatia,4105267,Zagreb,Christianity,1991,Croatian,Europe
+42,Cuba,11326616,Havana,Christianity,1902,Spanish,North America
+43,Cyprus,1207359,Nicosia,Islam,1960,Greek,Europe
+44,Czechia (Czech Republic),10708981,Prague,Christianity,1993,Czech,Europe
+45,Democratic Republic of the Congo,89561403,Kinshasa,Christianity,1960,French,Africa
+46,Denmark,5792202,Copenhagen,Christianity,1849,Danish,Europe
+47,Djibouti,988000,Djibouti,Islam,1977,Arabic,Africa
+48,Dominica,71991,Roseau,Christianity,1978,English,North America
+49,Dominican Republic,10847910,Santo Domingo,Christianity,1844,Spanish,North America
+50,East Timor (Timor-Leste),1318445,Dili,Catholicism,2002,Tetum,Asia
+51,Ecuador,17643054,Quito,Christianity,1830,Spanish,South America
+52,Egypt,102334404,Cairo,Islam,1922,Arabic,Africa
+53,El Salvador,6486205,San Salvador,Christianity,1841,Spanish,North America
+54,Equatorial Guinea,1402985,Malabo,Christianity,1968,Spanish,Africa
+55,Eritrea,3546427,Asmara,Christianity,1993,Tigrinya,Africa
+56,Estonia,1326535,Tallinn,Christianity,1918,Estonian,Europe
+57,Eswatini (fmr. "Swaziland"),1160164,Mbabane,Christianity,1968,Swati,Africa
+58,Ethiopia,114963588,Addis Ababa,Christianity,1991,Amharic,Africa
+59,Fiji,896445,Suva,Christianity,1970,English,Oceania
+60,Finland,5540720,Helsinki,Christianity,1917,Finnish,Europe
+61,France,65273511,Paris,Christianity,843,French,Europe
+62,Gabon,2225734,Libreville,Christianity,1960,French,Africa
+63,Gambia,2416668,Banjul,Islam,1965,English,Africa
+64,Georgia,3989167,Tbilisi,Christianity,1991,Georgian,Asia
+65,Germany,83783942,Berlin,Christianity,1871,German,Europe
+66,Ghana,31072940,Accra,Christianity,1957,English,Africa
+67,Greece,10423054,Athens,Christianity,1821,Greek,Europe
+68,Grenada,112523,Saint George's,Christianity,1974,English,North America
+69,Guatemala,17915568,Guatemala City,Christianity,1821,Spanish,North America
+70,Guinea,13132795,Conakry,Islam,1958,French,Africa
+71,Guinea-Bissau,1968001,Bissau,Islam,1973,Portuguese,Africa
+72,Guyana,786552,Georgetown,Christianity,1966,English,South America
+73,Haiti,11402528,Port-au-Prince,Christianity,1804,French,North America
+74,Honduras,9904607,Tegucigalpa,Christianity,1821,Spanish,North America
+75,Hungary,9660351,Budapest,Christianity,1918,Hungarian,Europe
+76,Iceland,341243,Reykjavík,Christianity,1944,Icelandic,Europe
+77,India,1380004385,New Delhi,Hinduism,1947,Hindi,Asia
+78,Indonesia,273523615,Jakarta,Islam,1945,Indonesian,Asia
+79,Iran,83992949,Tehran,Islam,1979,Persian,Asia
+80,Iraq,40222493,Baghdad,Islam,1932,Arabic,Asia
+81,Ireland,4937786,Dublin,Christianity,1922,English,Europe
+82,Israel,8655535,Jerusalem,Judaism,1948,Hebrew,Asia
+83,Italy,60461826,Rome,Christianity,1861,Italian,Europe
+84,Jamaica,2961167,Kingston,Christianity,1962,English,North America
+85,Japan,126476461,Tokyo,Shintoism,660 BC,Japanese,Asia
+86,Jordan,10203134,Amman,Islam,1946,Arabic,Asia
+87,Kazakhstan,18776707,Nur-Sultan,Islam,1991,Kazakh,Asia
+88,Kenya,53771296,Nairobi,Christianity,1963,Swahili,Africa
+89,Kuwait,4270571,Kuwait City,Islam,1961,Arabic,Asia
+90,Kyrgyzstan,6524195,Bishkek,Islam,1991,Kyrgyz,Asia
+91,Laos,7275560,Vientiane,Buddhism,1949,Lao,Asia
+92,Latvia,1886198,Riga,Christianity,1991,Latvian,Europe
+93,Lebanon,6825442,Beirut,Islam,1943,Arabic,Asia
+94,Lesotho,2142249,Maseru,Christianity,1966,Sesotho,Africa
+95,Liberia,5057681,Monrovia,Christianity,1847,English,Africa
+96,Libya,6871292,Tripoli,Islam,1951,Arabic,Africa
+97,Liechtenstein,38128,Vaduz,Catholicism,1806,German,Europe
+98,Lithuania,2722289,Vilnius,Christianity,1990,Lithuanian,Europe
+99,Luxembourg,625978,Luxembourg,Christianity,1839,Luxembourgish,Europe
+100,Madagascar,27691019,Antananarivo,Christianity,1960,Malagasy,Africa
+101,Malawi,19129952,Lilongwe,Christianity,1964,English,Africa
+102,Malaysia,32365999,Kuala Lumpur,Islam,1957,Malay,Asia
+103,Maldives,540544,Malé,Islam,1965,Dhivehi,Asia
+104,Mali,20250833,Bamako,Islam,1960,French,Africa
+105,Malta,441543,Valletta,Christianity,1964,Maltese,Europe
+106,Marshall Islands,59190,Majuro,Christianity,1986,Marshallese,Oceania
+107,Mauritania,4649660,Nouakchott,Islam,1960,Arabic,Africa
+108,Mauritius,1271768,Port Louis,Hinduism,1968,Mauritian Creole,Africa
+109,Mexico,128932753,Mexico City,Christianity,1810,Spanish,North America
+110,Micronesia,115023,Palikir,Christianity,1986,English,Oceania
+111,Moldova,4033963,Chisinau,Christianity,1991,Romanian,Europe
+112,Monaco,39242,Monaco,Catholicism,1297,French,Europe
+113,Mongolia,3278290,Ulaanbaatar,Buddhism,1921,Mongolian,Asia
+114,Montenegro,628066,Podgorica,Christianity,2006,Montenegrin,Europe
+115,Morocco,36910560,Rabat,Islam,1956,Arabic,Africa
+116,Mozambique,31255435,Maputo,Christianity,1975,Portuguese,Africa
+117,Myanmar (formerly Burma),54409800,Naypyidaw,Buddhism,1948,Burmese,Asia
+118,Namibia,2540905,Windhoek,Christianity,1990,English,Africa
+119,Nauru,10824,Yaren,Christianity,1968,Nauruan,Oceania
+120,Nepal,29136808,Kathmandu,Hinduism,1768,Nepali,Asia
+121,Netherlands,17134872,Amsterdam,Christianity,1648,Dutch,Europe
+122,New Zealand,4822233,Wellington,Christianity,1907,English,Oceania
+123,Nicaragua,6624554,Managua,Christianity,1838,Spanish,North America
+124,Niger,24206636,Niamey,Islam,1960,French,Africa
+125,Nigeria,206139589,Abuja,Islam,1960,English,Africa
+126,North Macedonia (formerly Macedonia),2083374,Skopje,Christianity,1991,Macedonian,Europe
+127,Norway,5421241,Oslo,Christianity,1905,Norwegian,Europe
+128,Oman,5106626,Muscat,Islam,1650,Arabic,Asia
+129,Pakistan,220892340,Islamabad,Islam,1947,Urdu,Asia
+130,Palau,18094,Ngerulmud,Christianity,1994,Palauan,Oceania
+131,Palestine,5483450,Jerusalem,Islam,1988,Arabic,Asia
+132,Panama,4314767,Panama City,Christianity,1903,Spanish,North America
+133,Papua New Guinea,8947027,Port Moresby,Christianity,1975,English,Oceania
+134,Paraguay,7132530,Asunción,Christianity,1811,Spanish,South America
+135,Peru,32971854,Lima,Christianity,1821,Spanish,South America
+136,Philippines,109581078,Manila,Christianity,1946,Filipino,Asia
+137,Poland,37846611,Warsaw,Christianity,1918,Polish,Europe
+138,Portugal,10196709,Lisbon,Christianity,1143,Portuguese,Europe
+139,Qatar,2881053,Doha,Islam,1971,Arabic,Asia
+140,Romania,19237691,Bucharest,Christianity,1877,Romanian,Europe
+141,Russia,145934462,Moscow,Christianity,1991,Russian,Europe
+142,Rwanda,12952218,Kigali,Christianity,1962,Kinyarwanda,Africa
+143,Saint Kitts and Nevis,53199,Basseterre,Christianity,1983,English,North America
+144,Saint Lucia,183627,Castries,Christianity,1979,English,North America
+145,Saint Vincent and the Grenadines,110940,Kingstown,Christianity,1979,English,North America
+146,Samoa,198414,Apia,Christianity,1962,Samoan,Oceania
+147,San Marino,33938,San Marino,Catholicism,301,Italian,Europe
+148,Sao Tome and Principe,219159,São Tomé,Christianity,1975,Portuguese,Africa
+149,Saudi Arabia,34813871,Riyadh,Islam,1932,Arabic,Asia
+150,Scotland,5463300,Edinburgh,Christianity,843,English,Europe
+151,Senegal,16743927,Dakar,Islam,1960,French,Africa
+152,Serbia,8737371,Belgrade,Christianity,2006,Serbian,Europe
+153,Seychelles,98347,Victoria,Christianity,1976,Seychellois Creole,Africa
+154,Sierra Leone,7976983,Freetown,Islam,1961,English,Africa
+155,Singapore,5850342,Singapore,Buddhism,1965,English,Asia
+156,Slovakia,5459642,Bratislava,Christianity,1993,Slovak,Europe
+157,Slovenia,2078938,Ljubljana,Christianity,1991,Slovene,Europe
+158,Solomon Islands,686884,Honiara,Christianity,1978,English,Oceania
+159,Somalia,15893219,Mogadishu,Islam,1960,Somali,Africa
+160,South Africa,59308690,Pretoria,Christianity,1910,English,Africa
+161,South Korea,51269185,Seoul,Buddhism,1948,Korean,Asia
+162,South Sudan,11193729,Juba,Christianity,2011,English,Africa
+163,Spain,46754778,Madrid,Christianity,1492,Spanish,Europe
+164,Sri Lanka,21413249,Sri Jayawardenepura Kotte,Buddhism,1948,Sinhala,Asia
+165,Sudan,43849260,Khartoum,Islam,1956,Arabic,Africa
+166,Suriname,586632,Paramaribo,Christianity,1975,Dutch,South America
+167,Sweden,10099265,Stockholm,Christianity,1523,Swedish,Europe
+168,Switzerland,8654622,Bern,Christianity,1648,German,Europe
+169,Syria,17500657,Damascus,Islam,1946,Arabic,Asia
+170,Tajikistan,9537645,Dushanbe,Islam,1991,Tajik,Asia
+171,Tanzania,59734218,Dodoma,Christianity,1961,Swahili,Africa
+172,Thailand,69799978,Bangkok,Buddhism,1238,Thai,Asia
+173,Togo,8278737,Lomé,Christianity,1960,French,Africa
+174,Tonga,105695,Nuku'alofa,Christianity,1970,Tongan,Oceania
+175,Trinidad and Tobago,1399488,Port of Spain,Christianity,1962,English,North America
+176,Tunisia,11818619,Tunis,Islam,1956,Arabic,Africa
+177,Turkey,84339067,Ankara,Islam,1923,Turkish,Asia
+178,Turkmenistan,6031187,Ashgabat,Islam,1991,Turkmen,Asia
+179,Tuvalu,11792,Funafuti,Christianity,1978,Tuvaluan,Oceania
+180,Uganda,45741007,Kampala,Christianity,1962,English,Africa
+181,Ukraine,43733762,Kiev,Christianity,1991,Ukrainian,Europe
+182,United Arab Emirates,9890402,Abu Dhabi,Islam,1971,Arabic,Asia
+183,United Kingdom,67886011,London,Christianity,1707,English,Europe
+184,United States of America,331002651,Washington,Christianity,1776,English,North America
+185,Uruguay,3473730,Montevideo,Christianity,1828,Spanish,South America
+186,Uzbekistan,33469203,Tashkent,Islam,1991,Uzbek,Asia
+187,Vanuatu,307145,Port Vila,Christianity,1980,Bislama,Oceania
+188,Vatican City (Holy See),801,City of Vatican City,Catholicism,1929,Latin,Europe
+189,Venezuela,28435943,Caracas,Christianity,1811,Spanish,South America
+190,Vietnam,97338579,Hanoi,Buddhism,1945,Vietnamese,Asia
+191,Yemen,29825968,Sana'a,Islam,1918,Arabic,Asia
+192,Zambia,18383955,Lusaka,Christianity,1964,English,Africa
+193,Zimbabwe,14862924,Harare,Christianity,1980,English,Africa
