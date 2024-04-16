@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
         //initializing the shared pref. with the special key
         sharedPreferences = getSharedPreferences(SHARED_KEY, Context.MODE_PRIVATE);
         edit = sharedPreferences.edit();
-//        edit.putStringSet(FAV_STRING_KEY, new HashSet<String>());
-//        edit.apply();
 
         //get saved info from bundle
         if (savedInstanceState != null) {
