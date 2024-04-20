@@ -1,6 +1,6 @@
 # Geography Explorer App
 
-The Geo-Explorer is my first Android application, it was designed to help students in the world geography by allowing them to explore continents and countries around the world. The app allows users to navigate through continents, view countries within each continent, mark favorite countries, and access detailed information about specific countries. 
+The Geo-Explorer is my first Android application, it was designed to help students study the world geography. The app allows users to navigate through continents, view countries within each continent, mark favorite countries, and access detailed information about specific countries. 
 
 ## Features
 - Explore continents and view countries within each continent.
@@ -12,7 +12,7 @@ The Geo-Explorer is my first Android application, it was designed to help studen
 - Java
 - XML
 
-## Some Pictures of Implementation
+## Sample Pictures of Implementation
 
 ### Front Page
 ![1](https://github.com/hanadiasfour/GeoExplorerAPP/assets/91291021/9200fe6a-ba20-47a3-adde-977f83a1ca6b)
